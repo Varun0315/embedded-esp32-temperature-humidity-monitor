@@ -56,7 +56,7 @@ This project was developed as a practice exercise to learn sensor interfacing, O
 ## Project Structure
 
 ---
-
+```
 .
 ├── docs/
 ├── include/
@@ -67,7 +67,7 @@ This project was developed as a practice exercise to learn sensor interfacing, O
 ├── platformio.ini
 ├── README.md
 └── .gitignore
-
+```
 
 ---
 
